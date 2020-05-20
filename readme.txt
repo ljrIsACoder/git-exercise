@@ -7,3 +7,4 @@ Git stash test.
 Hello world!
 Hello git!
 Hello js!
+Hello vue!
